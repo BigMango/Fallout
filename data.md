@@ -42,3 +42,19 @@ https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/pag
 https://en.uesp.net/wiki/Skyrim_Mod:Archive_File_Format#Header
 https://en.uesp.net/wiki/Skyrim_Mod:Mod_File_Format
 https://en.uesp.net/wiki/Oblivion_Mod:Mod_File_Format
+
+
+### 2. 数据导出
+#### 2.1. fo76-dumps
++ Python 环境
+
+pip config --global set global.index-url https://mirrors.aliyun.com/pypi/simple/
+pip config --global set install.trusted-host mirrors.aliyun.com
+
+https://pypi.org/project/pandas/1.2.4/#files
+
+
+swf 调试
+https://www.nexusmods.com/fallout4/articles/1728
+
+https://www.youtube.com/watch?v=FCtGk4HpVwY&ab_channel=SkyrimScripting

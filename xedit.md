@@ -30,8 +30,20 @@ Windows Registry Editor Version 5.00
 &emsp;&emsp;大量的第三方工具都是基于这个设计器，数据的导出使用pascal动态的脚本来实现。
 这里有个问题就是怎么调试动态脚本。
 
+### 4. Delphi
+    默认是用RAD 11开发的，对应的包是28。RAD 12有的库可能不支持，默认的包是29。
+    Delphi有时候会莫名其妙的出现Socket Error错误。
 
-### 4. 调试
+    [详情](https://en.delphipraxis.net/topic/4535-delphi-1041-socket-error-on-ide-start/)
+
+```
+    HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\22.0\Known IDE Packages
+    备注前面加两个下划线即可--> "__Embarcadero FireUI Live Preview Package"
+```
+  
+  BPL 无法安装，Delphi 11 有时候会可以编译但是不能安装BPL，不知道为什么，但是安装了DevExpress以后就可以了。
+
+### 5. 调试
 
     为了启动的时候就可以是辐射76，在Option的Debugger的Param下设置
 
@@ -39,3 +51,5 @@ Windows Registry Editor Version 5.00
 -FO76 -D:"D:\Program Files (x86)\Steam\steamapps\common\Fallout76\Data\"
 -FO76 -D:"E:\SteamGames\steamapps\common\Fallout76\Data\"
 ```
+
+
