@@ -43,9 +43,10 @@ https://en.uesp.net/wiki/Skyrim_Mod:Archive_File_Format#Header
 https://en.uesp.net/wiki/Skyrim_Mod:Mod_File_Format
 https://en.uesp.net/wiki/Oblivion_Mod:Mod_File_Format
 
-
 ### 2. 数据导出
+
 #### 2.1. fo76-dumps
+
 + Python 环境
 
 pip config --global set global.index-url https://mirrors.aliyun.com/pypi/simple/
@@ -53,8 +54,33 @@ pip config --global set install.trusted-host mirrors.aliyun.com
 
 https://pypi.org/project/pandas/1.2.4/#files
 
-
 swf 调试
 https://www.nexusmods.com/fallout4/articles/1728
 
 https://www.youtube.com/watch?v=FCtGk4HpVwY&ab_channel=SkyrimScripting
+
+##### PAS脚本导出
+
+| 数据集合 | 数据量  | 导出时长 |
+| -------- | ------- | -------- |
+| ids      | 5337803 | 1:41:55  |
+|          |         |          |
+
+### 3. 数据解析
+
+#### 3.1. 参考
+
+##### 可能路径
+
+Github的作者[matortheeternal](https://github.com/matortheeternal/)对B社的项目做了很多分析工作。可惜的是还没有到Fallout76就停止的研究。
+
+* [xedit-lib](https://github.com/matortheeternal/xedit-lib) 将xEdit的数据解析部分封装为库。
+* [esp.json](https://github.com/matortheeternal/esp.json) 将xEdit的定义生成为Json，不过Generator目录下各个游戏的数据(js文件)不知道是怎么来的。
+  [引用1](https://www.reddit.com/r/skyrimmods/comments/sf9oos/espjson_json_record_definitions_for_tes5_sse_tes4/)
+* [esper](https://github.com/matortheeternal/esper) 作者停止Delphi的dll后转到了C#独立封装。使用esp.json生成的定义。
+* [zedit](https://github.com/z-edit/zedit)调用xedit-lib用Angular 1.8.5 做的Election工具。
+* [XeLibSharp](https://github.com/aers/XeLibSharp.git) xedit-lib的C#封装。
+
+##### 第三方库
+
+* [Mutagen](https://github.com/Mutagen-Modding/Mutagen) 一个C#的B社库，没有辐射76应该永远不会有。代码风格很不喜欢，不过提供了大量的可能的参考，目前还经常更新。
