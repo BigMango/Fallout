@@ -38,3 +38,7 @@
     BigMango_905 CN XXX
 
    Steam:Mango_905
+
+
+
+Mango888@riishen.com 注册了B社,还没有关联xbox
