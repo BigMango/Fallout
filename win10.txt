@@ -1,0 +1,13 @@
+https://www.experts-exchange.com/questions/29158294/Warnings-200-201-202-and-error-131-at-startup.html
+
+Go to Control Panel > Type in the search "device installation" > Click on "Change device installation settings"
+进入控制面板>在搜索框中输入“设备安装”>点击“更改设备安装设置”
+
+
+Click on "No let me choose what to do" > choose the option "Never install driver software from Windows Update" and make sure that "Automatically get the device app and info provided by your device manufacture" is UNCHECKED. < This is the source of the issue
+点击“No let me choose what to do”>选择“Never install driver software from Windows Update”选项，并确保“Automatically get the device app and info by your device manufacturer”为UNCHECKED。这就是问题的根源
+
+
+Restarted and shutdown a couple of times and the error is totally gone
+重新启动和关闭几次，错误完全消失了
+.

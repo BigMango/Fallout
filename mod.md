@@ -47,3 +47,12 @@
 + Inventory
 + UI Mod
 + Price
+
+[Tutorial Series Starfield](https://www.youtube.com/watch?v=YISLeDlDm30&list=PLn2PC4m554maVqoN_jZZTc9bWtCvxuJVv)
+
+https://www.nexusmods.com/starfield/mods/5912
+https://www.youtube.com/watch?v=1naNojdx0ek&list=PL2g2oK5KhZT0WUOw0Y_8HFudZbgfmcdEl
+
+https://github.com/Ideki/UIPlayNiceExample.git 一个星空的教程
+
+https://bbs.3dmgame.com/forum.php?mod=viewthread&tid=2613105

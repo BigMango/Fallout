@@ -4,13 +4,14 @@
 
 #### 1.1. 主号
 
-| 序号 | Name          | 区域   | B社                                     | Xbox                          | Steam                                | 会员到期日期            |
-| ---- | ------------- | ------ | --------------------------------------- | ----------------------------- | ------------------------------------ | ----------------------- |
-| 1    | BigBigMango   | 香港   | bigbigmango<br />xxq1                   |                               | √<br />bigmango_ex <br />xxq1       |                         |
-| 2    | BigBigMango2  | 香港   | Mango.Riishen.com<br />bigbigmango2     | XGP                           | √bigbigmango2                       |                         |
-| 3    | Yellow.Moon   | 阿根廷 | bigmango88@163.com                      | SmartMango@Riishen.com        | bigbigmango3<br />bigmango88@163.com | 2025-5-12               |
-| 4    | Super.Orange  | 阿根廷 | super.orange<br />bigmango888@163.com   | bigmango88@163.com<br />xxxQ1 |                                      | 2024-8-18               |
-| 5    | BigYellowMoon | 阿根廷 | BigYellowMoon<br />Mango908@riishen.com | Mango908@riishen.com          |                                      | 2024-09-09<br />3年会员 |
+| 序号 | Name          | 区域   | B社                                                              | Xbox                          | Steam                                | 会员到期日期            |
+| ---- | ------------- | ------ | ---------------------------------------------------------------- | ----------------------------- | ------------------------------------ | ----------------------- |
+| 1    | BigBigMango   | 香港   | id:bigbigmango<br />bigmango@163.com<br /><br />mangoi<br />xxq1 |                               | √<br />bigmango_ex <br />xxq1       |                         |
+| 2    | BigBigMango2  | 香港   | Mango.Riishen.com<br />bigbigmango2                              | mango@riishen.com             | √bigbigmango2                       |                         |
+| 3    | Yellow.Moon   | 阿根廷 | bigmango88@163.com<br />bigbigmango3<br />i...Q1                 | SmartMango@Riishen.com        | bigbigmango3<br />bigmango88@163.com | 2025-5-12               |
+| 4    | Super.Orange  | 阿根廷 | super.orange<br />bigmango888@163.com<br />xxQ1                  | bigmango88@163.com<br />xxxQ1 |                                      | 2024-8-18               |
+| 5    | BigYellowMoon | 阿根廷 | BigYellowMoon<br />Mango908@riishen.com                          | Mango908@riishen.com          |                                      | 2024-09-09<br />3年会员 |
+| 6    | Mango905      | 香港   | BigYellowMoon<br />Mango908@riishen.com                          | Mango905@Riishen.com          | Mango_905                            | 2024-09-09<br />3年会员 |
 
 #### 1.2. 小号
 
@@ -39,6 +40,10 @@
 
    Steam:Mango_905
 
-
-
 Mango888@riishen.com 注册了B社,还没有关联xbox
+
+Mango894@riishen.com
+
+Mango895@riishen.com  xxxQ111
+
+Mango896@riishen.com  xxxQ11
